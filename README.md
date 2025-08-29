@@ -1,4 +1,4 @@
-🌟🌟🌟 REALCE DE IMAGEM 🌟🌟🌟
+<h1 align="center">🌟🌟🌟 REALCE DE IMAGEM 🌟🌟🌟</h1>
 <div align="center"> <img src="https://i.gifer.com/7yrz.gif" width="600px" alt="Imagem sendo processada"> </div>
 📌 Sobre
 
