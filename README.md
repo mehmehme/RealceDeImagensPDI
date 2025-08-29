@@ -1,5 +1,7 @@
 🖼️ Realce de Imagem
+
 <img src="https://i.gifer.com/7yrz.gif" width="500px" alt="Imagem sendo processada">
+
 📌 Sobre
 
 Este repositório contém implementações em Python para técnicas de realce de imagem.
